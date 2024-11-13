@@ -42,8 +42,13 @@ Doesn't require the same level of preprocessing as the other datasets.
 
 Project Purpose
 The purpose of this project is to demonstrate the implementation and effectiveness of the Naive Bayes classifier on different types of datasets. It showcases:
+
 • How to implement a Naive Bayes classifier from scratch.
+
 • The versatility of the algorithm across different domains (medical, automotive, and general classification).
+
 • The use of cross-validation for more robust performance estimation.
+
 • Basic data preprocessing techniques for handling categorical data.
+
 By comparing the performance across these datasets, users can gain insights into the strengths and limitations of the Naive Bayes algorithm in different contexts.

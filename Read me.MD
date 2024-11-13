@@ -1,7 +1,7 @@
 This project implements a Naive Bayes classifier for three different datasets: breast cancer, car evaluation, and Hayes-Roth. The code is structured similarly for all three datasets, with minor differences in data loading and preprocessing. 
 
 The main components and what the project is about:
-Project Overview
+# Project Overview :
 This project implements a Naive Bayes classifier to perform classification tasks on three different datasets. The main goal is to predict a class label for new instances based on the learned probability distributions from the training data.
 
 Key Components
